@@ -1,0 +1,11 @@
+Please apply for financial aid for the courses in SP2 and SP3.
+ 
+Sp2:
+Algorithmic Toolbox (https://www.coursera.org/specializations/data-structures-algorithms)
+PCA (https://www.coursera.org/specializations/mathematics-machine-learning)
+ 
+SP3:
+Data Structures (https://www.coursera.org/specializations/data-structures-algorithms)
+Algorithms on Graphs (https://www.coursera.org/specializations/data-structures-algorithms)
+Probability & Statistics for Machine Learning & Data Science (https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science)
+ 
